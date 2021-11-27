@@ -1,0 +1,48 @@
+html{
+    height: 100%;
+    width: 100%;
+}body {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(87, 131, 131);
+}
+
+.searchdiv{
+    width: 50%;
+    border: 3px solid black;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+   
+}
+select{
+    width: 30%;
+    flex-basis: 40%;
+    margin: 10px auto;
+}
+button{
+    flex-basis: 20%;
+    margin: 10px auto;
+}
+label{
+    flex-basis: 25%;
+    margin: 10px auto;
+   
+}
+fieldset{
+    box-sizing: content-box;
+    width: 100%;
+   
+}
+.imgdiv{
+    width: 70%;
+    height: 70%;
+    margin: 20px auto;
+    border: 3px solid black;
+}
+#img{
+    width: 100%;
+    height: 100%;
+}

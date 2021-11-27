@@ -1,0 +1,23 @@
+{
+  "name": "waifupics",
+  "version": "1.0.0",
+  "description": "waifu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalikeChapman/waifupics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalikeChapman/waifupics/issues"
+  },
+  "homepage": "https://github.com/MalikeChapman/waifupics#readme",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
